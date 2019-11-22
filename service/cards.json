@@ -1,0 +1,84 @@
+{
+	"cards": [
+		{
+			"name": "Co-branded CC",
+			"card_number": "5860",
+			"limit": 25840,
+			"category": {
+				"type": "flex",
+				"background_color": "#0E6937",
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/10072018_09_co-branded-2.png"
+			}
+		},
+		{
+			"name": "Cooper Alimentação",
+			"card_number": "8700",
+			"limit": 20000,
+			"category": {
+				"type": "alimentacao",
+				"background_color": "#21B354",
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/27032018_34_mockup_VA_frente.png"
+			}
+		},
+		{
+			"name": "Refeição",
+			"card_number": "9112",
+			"limit": 2138,
+			"category": {
+				"type": "refeicao",
+				"background_color": "#0083E4",
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/27032018_53_mockup_Refeicao_frente.png"
+			}
+		},
+		{
+			"name": "Cartão do mercado",
+			"card_number": "4302",
+			"limit": 83000,
+			"category": {
+				"type": "flex",
+				"background_color": "#0E6937",
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/10072018_09_co-branded-2.png"
+			}
+		},
+		{
+			"name": "Presente Jose",
+			"card_number": "1200",
+			"limit": 5000,
+			"category": {
+				"type": "gift",
+				"background_color": "#0E6937",
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/10072018_56_gift.png"
+			}
+		},
+		{
+			"name": "Adiantamento Salarial",
+			"card_number": "3580",
+			"limit": 35000,
+			"category": {
+				"type": "multi",
+				"background_color": "#E46100",
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/10072018_30_multi.png"
+			}
+		},
+		{
+			"name": "Presente",
+			"card_number": "0030",
+			"limit": 12000,
+			"category": {
+				"type": "gift",
+				"background_color": "#0E6937",
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/10072018_56_gift.png"
+			}
+		},
+		{
+			"name": "Loja 2",
+			"card_number": "1060",
+			"limit": 135000,
+			"category": {
+				"type": "flex",
+				"background_color": "#0E6937",
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/10072018_09_co-branded-2.png"
+			}
+		}
+	]
+}
