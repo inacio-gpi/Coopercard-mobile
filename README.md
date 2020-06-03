@@ -13,8 +13,7 @@ O layout e ícones estão disponíveis no seguinte link: [Clique Aqui](https://g
 
 > Lista de cartões
 
-Listar todos os cartões disponíveis para o usuário
-
+Faça uma chamada para o serviço abaixo para carregar os cartões do usuário. 
 ```
 https://raw.githubusercontent.com/policante/Coopercard-mobile/master/service/cards.json
 ```
