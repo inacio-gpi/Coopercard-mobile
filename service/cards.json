@@ -1,23 +1,13 @@
 {
 	"cards": [
 		{
-			"name": "Co-branded CC",
-			"card_number": "5860",
-			"limit": 25840,
-			"category": {
-				"type": "flex",
-				"background_color": "#0E6937",
-				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/24012020_06_mockup_frente2.png"
-			}
-		},
-		{
 			"name": "Cooper Alimentação",
 			"card_number": "8700",
 			"limit": 20000,
 			"category": {
 				"type": "alimentacao",
 				"background_color": "#21B354",
-				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/27032018_34_mockup_VA_frente.png"
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/18022021_07_home_ticket_ali.png"
 			}
 		},
 		{
@@ -27,17 +17,17 @@
 			"category": {
 				"type": "refeicao",
 				"background_color": "#0083E4",
-				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/27032018_53_mockup_Refeicao_frente.png"
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/18022021_17_home_ticket_res.png"
 			}
 		},
 		{
-			"name": "Cartão do mercado",
+			"name": "Cartão Combustível",
 			"card_number": "4302",
-			"limit": 83000,
+			"limit": 25000,
 			"category": {
-				"type": "flex",
+				"type": "combustivel",
 				"background_color": "#0E6937",
-				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/24012020_06_mockup_frente2.png"
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/10072018_46_combustivel.png"
 			}
 		},
 		{
@@ -65,19 +55,19 @@
 			"card_number": "0030",
 			"limit": 12000,
 			"category": {
-				"type": "gift",
+				"type": "gift_plus",
 				"background_color": "#0E6937",
-				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/10072018_56_gift.png"
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/21072020_44_giftplus_carrossel.png"
 			}
 		},
 		{
-			"name": "Loja 2",
+			"name": "Farmácia",
 			"card_number": "1060",
-			"limit": 135000,
+			"limit": 7000,
 			"category": {
-				"type": "flex",
+				"type": "farmacia",
 				"background_color": "#0E6937",
-				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/24012020_06_mockup_frente2.png"
+				"image_path": "https://www.coopercard.com.br/Portal/Static/Imagem/Cards/10072018_50_farmacia.png"
 			}
 		}
 	]
